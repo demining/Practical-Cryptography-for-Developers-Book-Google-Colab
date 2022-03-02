@@ -2,7 +2,7 @@
 -------------------------
 ### Run p2pool-Google-Colab
 
-https://colab.research.google.com/drive/1yJoIkmqWXzRwio01ieLfFgaaLEUOuMpX?usp=sharing
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
 
 -------------------------
 > **Warning**: this book is **not finished**! I am still working on some of the chapters. Once it is completed, I will publish it as PDF and EPUB. Be patient.
